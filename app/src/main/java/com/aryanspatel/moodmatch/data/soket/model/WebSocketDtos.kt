@@ -2,7 +2,6 @@ package com.aryanspatel.moodmatch.data.soket.model
 
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.JsonElement
-import javax.annotation.meta.TypeQualifierNickname
 
 // Small parser that converts Json payload into -> MoodMatchEvent
 

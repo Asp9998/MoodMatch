@@ -1,7 +1,5 @@
 package com.aryanspatel.moodmatch.domain.usecases
 
-import com.aryanspatel.moodmatch.presentation.models.Mood
-
 object UserPreferenceValidator {
 
     private const val MAX_NICKNAME_LENGTH = 24
